@@ -56,7 +56,7 @@ Once you have installed the [required dependencies](#requirements), you can go a
     
     # This URL points to the hosted backend.
     # If running the backend locally, change this to http://localhost:8080
-    BACKEND=[http://parkingangel.se2324team6.ada.hat.davecutting.uk/](http://parkingangel.se2324team6.ada.hat.davecutting.uk/)
+    BACKEND=http://yourserver.com
     ```
 
 ### OPTIONAL - Running Backend Locally
